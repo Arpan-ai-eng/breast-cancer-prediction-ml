@@ -1,5 +1,7 @@
 # 🩺 Breast Cancer Prediction
 
+[🚀 Live Demo](https://breast-cancer-prediction-ml-yv2ccmkar2q5e7p7patcyg.streamlit.app/)
+
 A machine learning web application that predicts whether a breast
 tumor sample is benign or malignant using a Support Vector Classifier.
 
